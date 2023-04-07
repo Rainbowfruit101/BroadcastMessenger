@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BroadcastMessengerApi", "BroadcastMessengerApi\BroadcastMessengerApi.csproj", "{C366FA3C-F325-43FF-BE83-35DA4F2C281C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTestEnvironment", "ConsoleTestEnvironment\ConsoleTestEnvironment.csproj", "{CB26CEA8-F234-42B8-9205-C9B4790D8B05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C366FA3C-F325-43FF-BE83-35DA4F2C281C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C366FA3C-F325-43FF-BE83-35DA4F2C281C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C366FA3C-F325-43FF-BE83-35DA4F2C281C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C366FA3C-F325-43FF-BE83-35DA4F2C281C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB26CEA8-F234-42B8-9205-C9B4790D8B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB26CEA8-F234-42B8-9205-C9B4790D8B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB26CEA8-F234-42B8-9205-C9B4790D8B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB26CEA8-F234-42B8-9205-C9B4790D8B05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
